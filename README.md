@@ -13,13 +13,13 @@ Email Me 👉 ✉️ **mr.t.imran11@gmail.com** For Collaboration/Project or Any
 
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="200px" align="right" alt="">
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning Flutter framework
+- 🔭 **I’m currently working on Flutter Project
+- 🌱 **I’m currently learning Flutter Framework & Advanced Spring Boot
 - 👯 **I’m looking to collaborate on Modern and Meaningful Project
 - 🤔 **I’m looking for help from professionals working on similar projects
-- 💬 **Ask me about:** Java, Spring Boot, Flutter, Angular, JavaScript, and related technologies 
+- 💬 **Ask me about: Java, Spring Boot, Flutter, Angular, JavaScript, and related technologies 
 - 📫 **How to reach me: mr.t.imran11@gmail.com
-- 😄 **Pronouns:** Imran 
+- 😄 **Pronouns:Imran 
   
 
 
