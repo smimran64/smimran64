@@ -1,7 +1,10 @@
 # 💫 Hi 👋, I'm Imran Mia
 
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
+
 ### A passionate Full Stack Java Developer
+
+
 
 
 Email Me 👉 ✉️ **mr.t.imran11@gmail.com** For Collaboration/Project or Anything Else. 😊😊
