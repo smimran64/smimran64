@@ -135,6 +135,12 @@
 
 ![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smimran64&theme=radical&hide_border=false&include_all_commits=true&count_private=true) 
 ![Imran's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=smimran64&theme=radical&hide_border=false) 
+</div>
+
+<div align="center">
+
+# 📊 Languages Status 
+  
 ![Imran's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smimran64&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 
