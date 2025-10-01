@@ -1,13 +1,27 @@
-# 💫 Hi 👋, I'm Imran Mia
+<h1 align="center">💫 Hi 👋, I'm <span style="color:#FF6B6B;">Imran Mia</span></h1>
 
+<p align="center">
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Java+Developer;🌱+Spring+Boot+%7C+Angular+%7C+Flutter;⚡+Passionate+Problem+Solver;🚀+Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
+</p>
 
-### A passionate Full Stack Java Developer
+---
 
+### 🚀 A Passionate Full Stack Java Developer
 
+💡 Turning ideas into scalable & modern software solutions.  
+🌍 Open to **Collaboration | Freelance Projects | Innovation**  
 
+📧 **Email Me:** [mr.t.imran11@gmail.com](mailto:mr.t.imran11@gmail.com)  
+😊 Feel free to reach out for **Collaboration, Projects, or Tech Talks**  
 
-Email Me 👉 ✉️ **mr.t.imran11@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+</div>
 
 ## 🧠 About Me
 
