@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **mr.t.imran11@gmail.com** For Collaboration/Project or Any
 
 ## 🧠 About Me
 
-<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="250px" align="right" alt="">
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="200px" align="right" alt="">
 
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning Flutter framework
