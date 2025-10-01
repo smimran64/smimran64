@@ -1,7 +1,12 @@
 # 💫 Hi 👋, I'm Imran Mia
+
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 ### A passionate Full Stack Java Developer
 
+
 Email Me 👉 ✉️ **mr.t.imran11@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+
 
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning Flutter framework
@@ -11,6 +16,8 @@ Email Me 👉 ✉️ **mr.t.imran11@gmail.com** For Collaboration/Project or Any
 - 📫 **How to reach me: mr.t.imran11@gmail.com
 - 😄 **Pronouns:** Imran 
   
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=smimran64&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
