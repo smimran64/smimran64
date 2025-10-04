@@ -35,11 +35,20 @@
 - 📫 **How to reach me: mr.t.imran11@gmail.com
 - 😊 ** Surname : Imran
 
+
+<div align="center">
+
+
+# 🌐 Connect With Me  
+
+  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/xiyanahmed.imran)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-imran-mia-789bb8370)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smimran64) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.t.imran11@gmail.com) 
+
+</div>
   
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=smimran64&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 <div align="center">
@@ -160,15 +169,7 @@
 </div>
 ---
 
-<div align="center">
 
-
-# 🌐 Connect With Me  
-
-  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/xiyanahmed.imran)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-imran-mia-789bb8370)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smimran64) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.t.imran11@gmail.com) 
-
-</div>
   
 
 ---
