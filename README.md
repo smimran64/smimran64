@@ -20,7 +20,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" width="600" alt="Coding Animation">
 </div>
 
 ## 🧠 About Me
